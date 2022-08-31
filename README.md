@@ -19,9 +19,8 @@
 <img src="https://img.shields.io/badge/AWS-ff7f00?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 # MySQL
-<img src="https://img.shields.io/badge/AWS-ff7f00?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-# 
 
 # 🛰 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
