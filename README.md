@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=DONG%20UK%20KIM&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=33FFFF&height=300&section=header&text=DONG%20UK%20KIM&fontSize=90" />
 <br/><br/><br/><br/><br/>
 
-<h1 align="center">1. Introduction</h1>
+<h1 align="center">🏖 1. Introduction 🏖</h1>
 <p align="center"> Welcome to Dong UK Kim Github </br>
 I am a student at Hanyang University's Erica Software Department.</br>
 Just as being sure of success is the first step to success
@@ -10,11 +10,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits. </p>
 <br/><br/><br/><br/><br/>
 
 
-<h1 align="center">2. Profile_img or instargram or  blog_URL</h1>
-<br/><br/><br/><br/><br/>
-
-
-
+<h1 align="center">2. Dong Uk's Git Status</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=UnivDonguk22&theme=blue-green"/>
 </p>
@@ -40,11 +36,11 @@ I am Dong Uk Kim, a developer who strives to develop without limits. </p>
 </br></br></br>
 
 
-<h1 align="center">4. Complete Project Lists</h1>
+<h1 align="center">🌉 4. Complete Project Lists 🌉</h1>
 <p align="center">UMC: Dongne Web site // Dongne Web link: https://bingle625.shop/ </p>
 </br></br></br></br></br>
 
-<h1 align="center">🛰 5. Used Languages </h1>
+<h1 align="center">🛰 5. Used Languages 🛰</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
