@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DONG%20UK%20KIM&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=DONG%20UK%20KIM&fontSize=90" />
 <br/><br/><br/><br/><br/>
 
 <h1 align="center">1. Introduction</h1>
