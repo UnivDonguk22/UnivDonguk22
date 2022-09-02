@@ -37,7 +37,9 @@ I am Dong Uk Kim, a developer who strives to develop without limits. </p>
 
 
 <h1 align="center">🌉 4. Complete Project Lists 🌉</h1>
-<p align="center">UMC: Dongne Web site // Dongne Web link: https://bingle625.shop/ </p>
+<p align="center"> 동아리 관리 웹 플랫폼 "동네" | Dongne Web site </br> 
+📢 Published Link https://bingle625.shop </br>
+⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
 </br></br></br></br></br>
 
 <h1 align="center">🛰 5. Used Languages 🛰</h1>
