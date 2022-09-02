@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=33FFFF&height=300&section=header&text=DONG%20UK%20KIM&fontSize=90" />
-<br/><br/><br/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=33FFFF&height=300&section=header&text=Dong%20Uk's%20Github%20🏄&fontSize=80" />
+</p><br/><br/><br/><br/><br/>
 
 <h1 align="center">🏖 1. Introduction 🏖</h1>
-<p align="center"> Welcome to Dong UK Kim Github </br>
-I am a student at Hanyang University's Erica Software Department.</br>
+<h3 align="center"> 👋 Welcome to Dong UK Kim Github </br>
+I am a student at Hanyang University's Erica Software Department.</br></br>
 Just as being sure of success is the first step to success
-I am Dong Uk Kim, a developer who strives to develop without limits. </p>
-<br/><br/><br/><br/><br/>
+I am Dong Uk Kim, a developer who strives to develop without limits ! </h3>
+<br/><br/>
 
 
 <h1 align="center">2. Dong Uk's Git Status</h1>
@@ -37,7 +37,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits. </p>
 
 
 <h1 align="center">🌉 4. Complete Project Lists 🌉</h1>
-<p align="center"> 동아리 관리 웹 플랫폼 "동네" | Dongne Web site </br> 
+<p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web site </br> 
 📢 Published Link https://bingle625.shop </br>
 ⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
 </br></br></br></br></br>
