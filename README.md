@@ -4,10 +4,13 @@
 
 <h1 align="center">🏖 1. Introduction 🏖</h1>
 <h3 align="center"> 👋 Welcome to Dong UK Kim Github </br>
-I am a student at Hanyang University's Erica Software Department.</br></br>
+I am a student at Hanyang University's Erica Software Department.</br>
 Just as being sure of success is the first step to success
-I am Dong Uk Kim, a developer who strives to develop without limits ! </h3>
-<br/><br/>
+I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
+
+👋 안녕하세요! 저는 한양대학교 에리카 소프트웨어학부에(2022.03 ~ ) 재학중인 학생입니다. </br>
+성공을 확신하는 것이 성공에의 첫걸음인 것처럼, 한계점없이 성장하려고 노력하는 개발자 김동욱이라고 합니다 !
+
 
 
 <h1 align="center">2. Dong Uk's Git Status</h1>
