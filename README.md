@@ -55,7 +55,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <h1 align="center"> ✏️ Studying</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
 </br></br></br>
 
