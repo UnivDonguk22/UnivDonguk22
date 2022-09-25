@@ -13,12 +13,14 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 </br></br></br>
 
 
+
 <h1 align="center">🚋 Dong Uk's Git Status</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=UnivDonguk22&theme=blue-green"/>
 </p>
-
 </br></br><br/>
+
+
 
 <h1 align="center"> 🚀 Tech Stacks</h1>
 
@@ -46,13 +48,21 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 </br></br></br>
 
 
-<h1 align="center">🌉 Complete Project Lists</h1>
-<p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web site </br> 
-📢 Published Link https://bingle625.shop </br>
-⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
-![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
 
+<h1 align="center">🌉 Complete Project Lists</h1>
+<p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web Service </br> 
+📢 Published Web Link https://bingle625.shop </br>
+⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
+
+![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
 </br></br></br>
+
+<p align="center"> 멀티 페르소나를 발전시키도록 돕는 기록형 앱 서비스 "온앤오프" | On&Off APP Service </br>
+
+![On Off](https://user-images.githubusercontent.com/106023670/192161215-7dc41ca2-2900-4373-b267-5dd7fa16e5e9.png)
+</br></br></br></br></br>
+
+
 
 <h1 align="center"> ✏️ Studying</h1>
 <p align="center">
@@ -60,6 +70,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
 </br></br></br>
+
 
 
 <h1 align="center">🛰 Used Languages</h1>
