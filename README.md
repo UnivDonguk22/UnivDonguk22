@@ -50,7 +50,8 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web site </br> 
 📢 Published Link https://bingle625.shop </br>
 ⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
-![대체 텍스트](./Dongne.jpg)
+![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
+
 </br></br></br>
 
 <h1 align="center"> ✏️ Studying</h1>
