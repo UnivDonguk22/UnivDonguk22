@@ -84,8 +84,11 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 </br>
 </br>
 </br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kampo5096)](https://solved.ac/kampo5096/)
 
+<h1 align="center">🌱 Algorithm Level</h1>
+<p align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kampo5096"/>
+</p>
 </br>
 </br>
 </br>
