@@ -80,3 +80,15 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
 </p>
+
+</br>
+</br>
+</br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kampo5096)](https://solved.ac/kampo5096/)
+
+</br>
+</br>
+</br>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnivDonguk22&count_bg=%230DC0E3&title_bg=%231592C8&icon=&icon_color=%232A0ED5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
