@@ -78,7 +78,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <h1 align="center">🛰 Used Languages</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=5"/>
 </p>
 
 </br>
