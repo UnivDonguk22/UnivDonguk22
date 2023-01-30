@@ -18,7 +18,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=UnivDonguk22&theme=blue-green"/>
 </p>
-</br></br><br/>
+</br></br></br>
 
 
 
@@ -51,24 +51,29 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 <h1 align="center">🌉 Complete Project Lists</h1>
 <p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web Service </br> 
+🔥 Backend Developer [node.js] </br></br>
 📢 Published Web Link https://bingle625.shop </br>
 ⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
 ![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
 </br></br></br>
 
 <p align="center"> 멀티 페르소나를 발전시키도록 돕는 기록형 앱 서비스 "온앤오프" | On&Off APP Service </br>
+🔥 Backend Developer [node.js] </br></br>
 ![On Off](https://user-images.githubusercontent.com/106023670/192161215-7dc41ca2-2900-4373-b267-5dd7fa16e5e9.png)
 </br></br></br>
 
-<p align="center"> 한양대학교 ERICA 또래튜터링 - 안드로이드 앱 개발 프로젝트| 관상 MBTI Android APP </br>
+<p align="center"> 한양대학교 ERICA 또래튜터링 - 안드로이드 앱 개발 프로젝트 | 관상 MBTI Android APP </br>
+🔥 Project Manager & Frontend Developer [Android | Kotlin] </br></br>
 ![Face Reader](https://user-images.githubusercontent.com/106023670/215539350-62667364-7661-4168-a3bc-1f3e0170834e.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 오픈소스 SW 기초 팀 프로젝트 - Java 애플리케이션 개발 프로젝트 | 통합 "게임런처 Java Application" </br>
+🔥 Project Manager & GUI Developer [Java] </br></br>
 ![Rummikub](https://user-images.githubusercontent.com/106023670/215539367-d84dc782-165a-4f7c-afec-438d71f8b3dc.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 프로그램 설계 방법론 팀 프로젝트 - Java 애플리케이션 게임개발 프로젝트 | 보드게임 "루미큐브 Java Application" </br>
+🔥 Project Manager & GUI Developer [Java] </br></br>
 ![Game Rand](https://user-images.githubusercontent.com/106023670/215539384-1eab5445-d118-4e9e-83a7-5d6586a444e7.png)
 </br></br></br></br></br>
 
