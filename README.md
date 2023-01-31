@@ -51,36 +51,43 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 <h1 align="center">🌉 Complete Project Lists</h1>
 <p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web Service </br> 
-🔥 Backend Developer [node.js] </br></br>
+🔥 Backend Developer [node.js] </br>
 📢 Published Web Link https://bingle625.shop </br>
-⚙️ Notion Link https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322 </p>
+⚙️ Notion Link [https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322] </p>
 
 ![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
 </br></br></br>
 
 <p align="center"> 멀티 페르소나를 발전시키도록 돕는 기록형 앱 서비스 "온앤오프" | On&Off APP Service </br>
-🔥 Backend Developer [node.js]
+🔥 Backend Developer [node.js] </br>
+⚙️ Notion Link [https://burnt-technician-7fa.notion.site/Backend-Dev-1dfb604d5bbb4eb4aaa72ab231ec0718]
 
 ![On Off](https://user-images.githubusercontent.com/106023670/192161215-7dc41ca2-2900-4373-b267-5dd7fa16e5e9.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 또래튜터링 - 안드로이드 앱 개발 프로젝트 | 관상 MBTI Android APP </br>
-🔥 Project Manager & Frontend Developer [Android | Kotlin]
+🔥 Project Manager & Frontend Developer [Android | Kotlin] </br>
+⚙️ Notion Link [https://talented-may-253.notion.site/c9dc84a4af2745148aaeb2f71a27592f?v=b22fa72c1d1e4728bcd084978c23e5dc]
 
-![Face Reader](https://user-images.githubusercontent.com/106023670/215539350-62667364-7661-4168-a3bc-1f3e0170834e.png)
+![Face Reader](https://user-images.githubusercontent.com/106023670/215704099-a632f349-90b0-4043-b1de-9e8d723d25a4.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 오픈소스 SW 기초 팀 프로젝트 - Java 애플리케이션 개발 프로젝트 | 통합 "게임런처 Java Application" </br>
-🔥 Project Manager & GUI Developer [Java]
+🔥 Project Manager & GUI Developer [Java] </br>
+⚙️ Notion Link [https://knotty-router-1d5.notion.site/70637fae593442d08a8413db39521af2?v=a17e2120b2374be6a5db75f9e567d6c1]
 
-![Rummikub](https://user-images.githubusercontent.com/106023670/215539367-d84dc782-165a-4f7c-afec-438d71f8b3dc.png)
+![Game Rand](https://user-images.githubusercontent.com/106023670/215704083-21388824-83a5-450f-a3cf-72b37014f8aa.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 프로그램 설계 방법론 팀 프로젝트 - Java 애플리케이션 게임개발 프로젝트 | 보드게임 "루미큐브 Java Application" </br>
-🔥 Project Manager & GUI Developer [Java]
+🔥 Project Manager & GUI Developer [Java] </br>
+⚙️ Notion Link [https://mousy-thought-ded.notion.site/18bbf280b0184989864a6cd31f32c870?v=10cc66738b91443abafa5b6a2d92900e]
 
-![Game Rand](https://user-images.githubusercontent.com/106023670/215539384-1eab5445-d118-4e9e-83a7-5d6586a444e7.png)
+![Rummikub](https://user-images.githubusercontent.com/106023670/215704093-22eb89eb-9b5d-4625-b253-4c677e34c4d0.png)
 </br></br></br></br></br>
+
+
+
 
 
 
