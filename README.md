@@ -31,6 +31,10 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </br>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></br>
+
+<p align="center">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -50,7 +54,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 
 <h1 align="center">🌉 Complete Project Lists</h1>
-<p align="center"> 동아리 관리 웹 서비스 "동네" | Dongne Web Service </br> 
+<p align="center"> 동아리 관리 웹 서비스 "동네" | 동네 Web Service </br> 
 🔥 Backend Developer [node.js] </br>
 📢 Published Web Link https://bingle625.shop </br>
 ⚙️ Notion Link [https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322] </p>
@@ -58,11 +62,18 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 ![Dongne](https://user-images.githubusercontent.com/106023670/192161005-dcfebe82-dfe2-4527-bde8-aa927ef07884.png)
 </br></br></br>
 
-<p align="center"> 멀티 페르소나를 발전시키도록 돕는 기록형 앱 서비스 "온앤오프" | On&Off APP Service </br>
+<p align="center"> 멀티 페르소나를 발전시키도록 돕는 기록형 앱 서비스 "온앤오프" | On&Off Android APP Service </br>
 🔥 Backend Developer [node.js] </br>
 ⚙️ Notion Link [https://burnt-technician-7fa.notion.site/Backend-Dev-1dfb604d5bbb4eb4aaa72ab231ec0718]
 
 ![On Off](https://user-images.githubusercontent.com/106023670/192161215-7dc41ca2-2900-4373-b267-5dd7fa16e5e9.png)
+</br></br></br>
+
+<p align="center"> 평범했던 휴대폰 갤러리를 가치있게 기록하고 보관하는 앱 서비스 "당신의 발자취" | 당신의 발자취 Android APP Service </br>
+🔥 Sub Project Manager & Android Developer [kotlin] </br>
+⚙️ Notion Link [https://mud-century-1f3.notion.site/6b9240d756bd4a56b4dbb6f71f41cb6c]
+
+![umc_footstep](https://user-images.githubusercontent.com/106023670/222886490-11a68d61-f450-452d-bd61-8cc49a97e4f4.png)
 </br></br></br>
 
 <p align="center"> 한양대학교 ERICA 또래튜터링 - 안드로이드 앱 개발 프로젝트 | 관상 MBTI Android APP </br>
@@ -93,8 +104,6 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 <h1 align="center"> ✏️ Studying</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
