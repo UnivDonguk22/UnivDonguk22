@@ -22,7 +22,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 
 
-<h1 align="center"> 🚀 Tech Stacks</h1>
+<h1 align="center">🚀 Tech Stacks</h1>
 
 <h3 align="center"> Techs that I've used at least once </h3>
 
@@ -43,14 +43,17 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> </br>
-
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-232F3E?style=flat-square&logo=Figma&logoColor=white"/> </p>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> </p>
 </br></br></br>
 
+<h1 align="center">🚀 Tool Stacks</h1>
+<h3 align="center"> Tools that I've used at least once </h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/Figma-232F3E?style=flat-square&logo=Figma&logoColor=white"/> </p>
+</br></br></br>
 
 
 <h1 align="center">🌉 Complete Project Lists</h1>
