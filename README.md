@@ -1,30 +1,15 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=33FFFF&height=300&section=header&text=Dong%20Uk's%20Github%20🏄&fontSize=80" />
-</p><br/><br/><br/><br/><br/>
-
-<h1 align="center">🏖 Introduction</h1>
-<h3 align="center"> 👋 Welcome to Dong UK Kim Github </br>
-I am a student at Hanyang University's Erica Software Department.</br>
-Just as being sure of success is the first step to success
-I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
-
-👋 안녕하세요! 저는 한양대학교 에리카 소프트웨어학부에(2022.03 ~ ) 재학중인 학생입니다. </br>
-성공을 확신하는 것이 성공의 첫걸음인 것처럼, 한계점없이 성장하려고 끊임없이 🔥 노력하는 개발자 김동욱이라고 합니다 ! 🔥 </h3>
+<h1 align="center">🏖 자기소개</h1>
+<h3 align="center">
+👋 안녕하세요! 백엔드 개발자 김동욱입니다. </br>
+'성장', '협업', '진취'는 제가 가장 좋아하는 인생 키워드입니다. </br>
+세가지 키워드를 운전대삼아 제 인생을 운전합니다.
+현재는 백엔드 서버 및 인프라 개발에 관심이 많습니다. </h3>
 </br></br></br>
 
 
+<h1 align="center">🚀 기술스택</h1>
 
-<h1 align="center">🚋 Dong Uk's Git Status</h1>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UnivDonguk22&theme=blue-green"/>
-</p>
-</br></br></br>
-
-
-
-<h1 align="center">🚀 Tech Stacks</h1>
-
-<h3 align="center"> Techs that I've used at least once </h3>
+<h3 align="center"> 활용가능한 기술스택입니다. </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -46,8 +31,8 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> </p>
 </br></br></br>
 
-<h1 align="center">🚀 Tool Stacks</h1>
-<h3 align="center"> Tools that I've used at least once </h3>
+<h1 align="center">🚀 협업 툴스택</h1>
+<h3 align="center"> 활용가능한 협업 툴스택입니다.</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
@@ -56,7 +41,7 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 </br></br></br>
 
 
-<h1 align="center">🌉 Complete Project Lists</h1>
+<h1 align="center">🌉 진행한 프로젝트</h1>
 <p align="center"> 동아리 관리 웹 서비스 "동네" | 동네 Web Service </br> 
 🔥 Backend Developer [node.js] </br>
 📢 Published Web Link https://bingle625.shop </br>
@@ -99,41 +84,3 @@ I am Dong Uk Kim, a developer who strives to develop without limits ! </br></br>
 
 ![Rummikub](https://user-images.githubusercontent.com/106023670/215704093-22eb89eb-9b5d-4625-b253-4c677e34c4d0.png)
 </br></br></br></br></br>
-
-
-
-
-
-
-<h1 align="center"> ✏️ Studying</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> </br>
-
-<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-
-</p>
-</br></br></br>
-
-
-
-<h1 align="center">🛰 Used Languages</h1>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnivDonguk22&layout=compact&theme=vision-friendly-dark&langs_count=10"/>
-</p>
-
-</br>
-</br>
-</br>
-
-<h1 align="center">🌱 Algorithm Level</h1>
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kampo5096"/>
-</p>
-</br>
-</br>
-</br>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnivDonguk22&count_bg=%230DC0E3&title_bg=%231592C8&icon=&icon_color=%232A0ED5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
